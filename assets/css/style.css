@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    background: white;
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+
+
+
+h1 {
+    background: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    padding: 20px;
+    width: 260px;
+    border-bottom: 3px;
+
+}
+
+body {
+    margin-top: 0px;
+    margin-left: 240px;
+    margin-right: 240px;
+    background-image: url("/Users/tracycollins/_Bootcamp/basic_portfolio/assets/images/subtle_grunge.png");
+    
+}
+
+section {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+
+}
+
+p {
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 150%;
+}
+
+nav{
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    right: 240px;
+    top: 50px;
+}
+
+img{
+    float: left;
+    margin: 10px;
+}
