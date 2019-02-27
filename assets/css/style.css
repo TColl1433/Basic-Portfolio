@@ -5,11 +5,8 @@
 header {
     background: white;
     width: 100%;
-    margin-left: 0px;
-    margin-right: 0px;
-}
-
-
+    border-color: #777777;
+   }
 
 
 h1 {
@@ -18,14 +15,17 @@ h1 {
     color: white;
     padding: 20px;
     width: 260px;
-    border-bottom: 3px;
+    position: relative;
+    left: 240px;
+    }
 
+h2{
+    position: relative;
+    left: 20px;
 }
 
 body {
     margin-top: 0px;
-    margin-left: 240px;
-    margin-right: 240px;
     background-image: url("/Users/tracycollins/_Bootcamp/basic_portfolio/assets/images/subtle_grunge.png");
     
 }
@@ -33,6 +33,10 @@ body {
 section {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #4aaaa5;
+    margin-left: 240px;
+    margin-right: 240px;
+    background-color: white;
+    padding: 20px
 
 }
 
@@ -40,6 +44,8 @@ p {
     color: #777777;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 150%;
+    
+
 }
 
 nav{
