@@ -61,9 +61,10 @@ p {
     left: 20px;
 }
 
-nav{
+div{
     color: #777777;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
     position: absolute;
     right: 240px;
     top: 50px;
