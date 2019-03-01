@@ -53,7 +53,8 @@ p {
     color: #777777;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 150%;
-    top: -20px;
+    top: -15px
+    
     
 }
 
@@ -62,7 +63,6 @@ p {
 }
 
 nav{
-    color: #777777;
     font-family: Arial, Helvetica, sans-serif;
     text-align: right;
     position: absolute;
@@ -71,13 +71,15 @@ nav{
 }
 a, a:link, a:visited, a:active{
     text-decoration: none;
-    color: #777777;
+    color: #4aaaa5;
+    margin-left: 5px;
 }
 img{
     float: left;
     margin: 20px;
     width: 185px;
     height: 185px;
+    margin-top: 40px;
     
 }
 
