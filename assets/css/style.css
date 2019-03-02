@@ -40,7 +40,8 @@ h2{
 } 
 body {
     margin-top: 0px;
-    background-image: url("/Users/tracycollins/_Bootcamp/GTATL201902FSF4/HOMEWORKWK1/basic_portfolio/assets/images/subtle_grunge.png");
+    background-image: url("../images/subtle_grunge.png");
+    background-size: contain;
     
 }
 
@@ -81,7 +82,7 @@ a, a:link, a:visited, a:active{
 }
 
 a:hover{
-    color: #3b3a3a;
+    color: #33b9f7;
 }
 
 img{
